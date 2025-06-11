@@ -38,13 +38,7 @@ Install [VSCODE](https://code.visualstudio.com/) to set up your codebase.
 Install [Node](https://nodejs.org/en) and [Nodemon](https://www.npmjs.com/package/nodemon).
 
 
-## Run you Application
 
-Run you Application by Executing. 
-</br>
-```bash
-npm run dev
-```
 on another Terminal.
 </br>
 go to [LocalHost](http://localhost:5173/) to View your Live app.
