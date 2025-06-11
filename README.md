@@ -1,4 +1,4 @@
-# Room 🏠 Portfolio
+# Room 🏠 Portfolio.
 <div style="display: flex; align-items: center;">
 <p>Welcome to the Room 🏠 Portfolio GitHub repository! This project showcases a captivating digital space where creativity and technology merge seamlessly. Crafted with THREEJS, GSAP animations, and Asscroll, this portfolio offers a unique web experience.</p>
   <br>
