@@ -28,6 +28,7 @@
     <a href="https://www.npmjs.com/package/@ashthornton/asscroll"><img src="https://img.shields.io/badge/Asscroll-8D99AE?style=for-the-badge&logoColor=white" alt="Asscroll" /></a>
 </div>
 
+
 ## Create Your Own Portfolio Website
 
 Install and setup git on your system, [git](https://git-scm.com/download/win) to install gitbash.
@@ -35,7 +36,6 @@ Install and setup git on your system, [git](https://git-scm.com/download/win) to
 ## Install the necessary Dependencies
 Install [VSCODE](https://code.visualstudio.com/) to set up your codebase.
 </br>
-Install [Node](https://nodejs.org/en) and [Nodemon](https://www.npmjs.com/package/nodemon).
 
 
 ## Contributing
