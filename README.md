@@ -41,7 +41,6 @@ Install [Node](https://nodejs.org/en) and [Nodemon](https://www.npmjs.com/packag
 ## Set up your codebase!
 
 ```bash
-cd VenkaTesanPortfolio
 code .
 ```
 Resolve Dependencies by
