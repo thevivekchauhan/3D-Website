@@ -15,5 +15,5 @@
 
 - **Interactive 3D Environment:** Experience a visually stunning 3D room environment directly on the web.
 - **GSAP Animations:** Engage with smooth and captivating animations powered by GSAP (Greensock).
-- **Seamless Scrolling:** Enjoy a fluid web browsing experience facilitated by Asscroll..
+- **Seamless Scrolling:** Enjoy a fluid web browsing experience facilitated by Asscroll.
 
