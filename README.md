@@ -29,11 +29,6 @@
     <a href="https://www.npmjs.com/package/@ashthornton/asscroll"><img src="https://img.shields.io/badge/Asscroll-8D99AE?style=for-the-badge&logoColor=white" alt="Asscroll" /></a>
 </div>
 
-
-## Live Website
-
-Explore the live website [here](https://venka-tesan-portfolio.vercel.app/).
-
 ## Create Your Own Portfolio Website
 
 Install and setup git on your system, [git](https://git-scm.com/download/win) to install gitbash.
