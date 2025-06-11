@@ -37,9 +37,6 @@ Install [VSCODE](https://code.visualstudio.com/) to set up your codebase.
 </br>
 Install [Node](https://nodejs.org/en) and [Nodemon](https://www.npmjs.com/package/nodemon).
 
-```bash
-npm i
-```
 
 ## Run you Application
 
