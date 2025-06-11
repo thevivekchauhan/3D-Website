@@ -17,14 +17,3 @@
 - **GSAP Animations:** Engage with smooth and captivating animations powered by GSAP (Greensock).
 - **Seamless Scrolling:** Enjoy a fluid web browsing experience facilitated by Asscroll.
 
-
-## Tech Stack
-
-<div style="display:flex; justify-content:space-around;">
-    <a href="https://threejs.org/"><img src="https://img.shields.io/badge/THREEJS-black?style=for-the-badge&logo=three.js&logoColor=white" alt="THREEJS" /></a>
-    <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender3D-FF6600?style=for-the-badge&logo=blender&logoColor=white" alt="Blender3D" /></a>
-    <a href="https://greensock.com/gsap/"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP (Greensock)" /></a>
-    <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
-    <a href="https://www.npmjs.com/package/@ashthornton/asscroll"><img src="https://img.shields.io/badge/Asscroll-8D99AE?style=for-the-badge&logoColor=white" alt="Asscroll" /></a>
-</div>
-
