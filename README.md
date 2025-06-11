@@ -81,7 +81,4 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 - **Bokoko:** Inspiration behind the project.
 - **Abigail Bloom:** Mentorship and guidance.
 
-## Stay Updated
-
-Follow me on [LinkedIn](https://www.linkedin.com/in/venkatesan-m-bba502236/) for more exciting updates on my portfolio journey!
 
