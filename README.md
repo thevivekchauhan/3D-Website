@@ -33,12 +33,6 @@
 
 Install and setup git on your system, [git](https://git-scm.com/download/win) to install gitbash.
 
-```bash
-
-git clone https://github.com/Venkatesan-M/VenkaTesanPortfolio.git
-
-```
-
 ## Install the necessary Dependencies
 Install [VSCODE](https://code.visualstudio.com/) to set up your codebase.
 </br>
